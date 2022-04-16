@@ -1,0 +1,84 @@
+/* importando fonte */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+/* cabeçalho */
+header{
+	color: #fff;
+	background: #000;
+	text-align: center;
+	margin: -22px;
+ 	font-family: "Open Sans", sans-serif;
+ 	position: sticky;
+ 	top: 0;
+ 	z-index: 999;
+}
+
+/* Titulo principal */
+.title_P{
+	position: relative; /* div recebe relative */
+}
+.title_P figcaption {
+	color: rgb(248,248,255);
+	text-align: center;
+	font:  bold 300% arial, helvetica, sans-serif;
+	margin: auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-shadow: 1px 1px 10px #000;
+}
+#img_P {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+	align-content: center;
+}
+
+/* texto de introdução */
+.text{
+	display: block;
+	width: 100%;
+	max-width: 660px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 25px;
+	text-align: left;
+	font-family: "Open Sans";
+}
+
+/* primeiro titulo do conteudo */
+.title{
+	position: relative; /* div recebe relative */
+}
+.title figcaption {
+	position: absolute; /* figcaption recebe absolute, irá sempre estar no mesmo lugar */
+	top: 75%;
+	left: 15%;
+	font-size: 40px;
+	color: rgb(248, 248, 255);
+	text-shadow: 1px 1px 10px #000;
+	font-family: "Open Sans";
+}
+#img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+	align-content: center;
+}
+footer {
+	color: #fff;
+	background: #000;
+	text-align: center;
+	margin: -22px;
+ 	font-family: "Open Sans", sans-serif;
+ 	font-size: 6px;
+}
+/* tirar barra de rolagem horizontal */
+html{
+	overflow-x: hidden;
+}

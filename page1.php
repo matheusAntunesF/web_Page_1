@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Top 5 Celulares até 2000 reais</title>
+	<link rel="stylesheet" type="text/css" href="page1.css">
+	<link rel="shortcut icon" type="imagex/png" href="arquivos/logo_Techcell.ico">
+</head>
+<body>
+	<div class="container">
+		<!-- Cabeçalho -->
+		<header>
+			<h1>Techcell</h1>
+		</header>
+		
+		<!-- Meio -->
+		<main class="main">
+			
+			<!-- Imagem de fundo do titulo principal -->
+			<div class="title_P">
+				<img src="arquivos/top5Celulares2000.jpg" id="img_P" alt="Top 5 Celulares ate 2000 reais" title="Top 5 Celulares até 2000 reais">
+				
+				<!-- Titulo principal -->
+				<figcaption>Top 5 Celulares até 2000 reais</figcaption>
+			</div>
+			
+			<!-- Texto de introdução -->
+			<div class="text">
+				<p>
+					Com a <a href="https://economia.uol.com.br/cotacoes/cambio/" title="Cotação do dólar hoje" target="_blank">cotação do dólar</a> caindo nas últimas semanas, <b>celulares</b> que possuíam preços muito altos se tornaram excelentes opções para quem procura <b>importar</b> com <b>custo benefício</b>. É importante lembrar que você provavelmente será taxado ao importar celulares dessa lista.
+				</p>	
+			</div>
+			
+			<!-- Produtos -->
+			<div class="title">
+				<a href="https://pt.aliexpress.com/item/1005003346309089.html" target="_blank"><img src="arquivos/mi11lite5gne.jpg" id="img" alt="Comprar MI 11 LITE NE" title="MI 11 LITE NE"></a>
+				<figcaption>Xiaomi 11 Lite 5G NE</figcaption>
+			</div>
+			<div class="text">
+				<p>
+					O <b>Xiaomi 11 Lite 5G NE</b> é o novo nome da linha que substitui a marca Mi da fabricante chinesa. Classificado com um intermediário, este celular é uma atualização da versão Mi 11 Lite 5G. Seu processador agora é equipado com um Snapdragon 778G. Inclusive mantém a tela de 6,55 polegadas AMOLED com taxa de atualização de 90 Hz e uma taxa de amostragem (identificação de toques na tela) de 240 Hz. Ela tem suporte ao Dolby Vision, que promete maior riqueza de detalhes e fidelidade de cores. O “novo” aparelho vem com leitor biométrico integrado ao botão de energia e uma bateria de 4.250 mAh, que oferece suporte a carregamento rápido de 33 W. Seu conjunto triplo de câmeras é o mesmo do aparelho lançado. Ele oferece diversos modos de foto: Time Freeze, Magic Zoom, Night Time-Lapse, Freeze Frame Video, Slow Shutter e Parallel World. Sendo a versão 5G, obviamente oferece suporte a nova rede que está se tornando cada vez mais comum nos lançamentos da marca.
+				</p>
+			</div>
+			<div class="title">
+				<a href="https://pt.aliexpress.com/item/1005003434605310.html" target="_blank"><img src="arquivos/xiaomi11t.jpg" id="img"alt="Comprar Xiaomi 11t" title="Xiaomi 11t"></a>
+				<figcaption>Xiaomi 11t</figcaption>
+			</div>
+			<div class="text">
+				<p>
+					O <b>Xiaomi 11T</b> encontra-se na categoria de celulares premium, mas com preço mais acessíveis. Ele traz diversos recursos e acabamentos de modelos mais caros, de modo a tentar oferecer a melhor experiência sem um custo muito elevado. Sua construção é feita em vidro na traseira e traz um design semelhante ao dos topo de linha. Um grande destaque do Xiaomi 11T é sua câmera principal de 108 MP. Ele também tem suporte a carregamento rápido de 67 W, capaz de encher a bateria de 5.000 mAh em pouco mais de uma hora. O chipset que integra o Xiaomi 11T é o Dimensity 1200 da MediaTek. Ele permite rodar diversos aplicativos e jogos com folga, além de oferecer excelente pós-processamento nas fotografias. Sua tela conta com resolução Full HD+ e também taxa de atualização de até 120 Hz. Por fim, o Xiaomi 11T é compatível com a rede 5G, trazendo a velocidade mais rápida já vista até então.
+				</p>
+			</div>
+			<div class="title">
+				<a href="https://pt.aliexpress.com/item/1005002291430869.html" target="_blank"><img src="arquivos/pocof3.jpg" id="img"alt="Comprar Poco F3" title="Poco F3"></a>
+				<figcaption>Poco F3</figcaption>
+			</div>
+			<div class="text">
+				<p>
+					O smartphone <b>Poco F3</b> traz o novo Snapdragon 870 ao lado de outras especificações potentes para entregar um bom custo-benefício na categoria topo de linha, oferecendo ainda outros diferenciais como tela AMOLED de 120 Hz e câmera tripla de 48 megapixels que possibilita tirar lindas fotos com resolução de 8000x6000 pixels; além de gravar vídeos em 4K com resolução de 3840x2160 pixels. A tela de 6.67 polegadas e resolução de 2400x1080 pixels é um dos atativos do celular. Além de tudo isso, outro ponto importante do celular é a memória interna de 128 GB que pode ser expandida.
+				</p>
+			</div>
+			<div class="title">
+				<a href="https://pt.aliexpress.com/item/1005003211959539.html" target="_blank"><img src="arquivos/pocox3gt.jpg" id="img"alt="Comprar agora Poco X3 GT" title="POCO X3 GT"></a>
+				<figcaption>Poco X3 GT</figcaption>
+			</div>
+			<div class="text">
+				<p>
+					O <b>Poco X3 GT</b> traz configurações de intermediário com o objetivo de oferecer um modelo compatível com redes 5G, mas ser um pouco mais acessível que os top de linha da marca. Entre os destaques deste celular, podemos citar, a conectividade ao 5G, tela com taxa de atualização de 120 Hz e alto falante estéreo. Já sob a carcaça do Poco X3 GT temos o chipset MediaTek Dimensity 1100, que traz uma performance competente, porém sem se sobressair muito. Alguns pontos que ficaram devendo neste modelo foram a falta da possibilidade de expansão do armazenamento interno, taxas de atualização adaptativas e quedas constantes da rede móvel. Isso mostra uma certa falta de acabamento no seu desenvolvimento. Ainda assim, o Poco X3 GT pode ser uma opção para aqueles que buscam um certo custo-benefício, sabendo que não terão uma experiência diferenciada, mas que consegue atender às demandas cotidianas.
+				</p>
+			</div>
+			<div class="title">
+				<a href="https://produto.mercadolivre.com.br/MLB-2612308364-xiaomi-redmi-note-7-48-mpx-dual-sim-128-gb-neptune-blue-_JM"><img src="arquivos/rn7.jpg" id="img"alt="Compre agora Xiaomi Redmi Note 7" title="Xiaomi Redmi Note 7"></a>
+				<figcaption>Redmi Note 7</figcaption>
+			</div>
+			<div class="text">
+				<p>
+					O <b>Redmi Note 7</b> mantém a proposta de competitividade da linha, aliando uma configuração intermediária e bom custo-benefício com uma poderosa câmera traseira. Ele foi um modelo que se destacou muito no segmento por trazer um custo-benefício muito bom em 2019. O Redmi Note 7 fazia jus à linha e trazia dentro da carcaça um chipset Snapdragon 660 mais 4 GB de memória RAM e também até 128 GB de armazenamento. Essas configurações possibilitavam uma boa versatilidade na época e faziam deste celular um dos mais procurados. Inclusive, aqui no Canaltech ele chegou a ganhar o prêmio de Melhor Custo-benefício. O Redmi Note 7 oferecia um hardware potente e conseguiu equilibrar muito bem preço, componentes e recursos. Além disso, seu conjunto óptico se destacou pela qualidade e também funcionalidades que oferecia. Sua câmera principal tinha 48 MP, e era auxiliada pelo sensor de profundidade de 5 MP, que garantia captura de fotos acima da média entre os intermediários.
+				</p>
+			</div>
+		</main>
+		<footer class="footer">
+			<h1>Direitos Reservados © Matheus Antunes Freire</h1>
+		</footer>
+	</div>
+</body>
+</html>
